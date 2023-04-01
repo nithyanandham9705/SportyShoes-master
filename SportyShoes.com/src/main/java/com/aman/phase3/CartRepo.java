@@ -1,4 +1,4 @@
-package com.aman.phase3;
+package com.aman.phase3
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
