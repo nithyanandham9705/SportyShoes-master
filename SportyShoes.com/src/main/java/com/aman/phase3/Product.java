@@ -10,7 +10,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.servlet.jsp.tagext.TryCatchFinally;
 
-import org.springframework.data.jpa.provider.HibernateUtils
+import org.springframework.data.jpa.provider.HibernateUtils;
 
 import lombok.Data;
 
