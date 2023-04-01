@@ -9,7 +9,7 @@ public class CartDao {
 	@Autowired
 	CartRepo c_repo;
 	
-	//USER INSERT ITEMS INTO CART'S
+	//USER INSERT ITEMS INTO CART'
 	public Cart addcart(Cart c)
 	{
 		return c_repo.save(c);
