@@ -165,7 +165,7 @@ public class Admin {
 		return "Admin [ad_id=" + ad_id + ", ad_fname=" + ad_fname + ", ad_lname=" + ad_lname + ", ad_phone=" + ad_phone
 				+ ", ad_mail=" + ad_mail + ", ad_dob=" + ad_dob + ", ad_pass=" + ad_pass + ", ad_con=" + ad_con
 				+ ", ad_state=" + ad_state + ", ad_dist=" + ad_dist + ", ad_taluka=" + ad_taluka + ", ad_pin=" + ad_pin
-				+ ", ad_gen=" + ad_gen + ", log_date=" + log_date + "]"
+				+ ", ad_gen=" + ad_gen + ", log_date=" + log_date + "]";
 	}
 
 }
