@@ -11,5 +11,5 @@ public interface AdminRepo extends JpaRepository<Admin, Integer>{
 	public Admin findbyname(String ad_fname);
 	
 	@Query("select ad from Admin ad where ad.ad_phone=?1")
-	public List<Admin> findByAdPhone(String ad_phone);
+	public List<Admin> findByAdPhone(String ad_phone)
 }
