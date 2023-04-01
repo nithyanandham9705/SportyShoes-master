@@ -17,7 +17,7 @@ import org.springframework.web.servlet.view.RedirectView;
 @Controller
 public class AllController {
 
-	/*HERE WE CREATE REPOSITORY'S OBJECT'S*/	
+	/*HERE WE CREATE REPOSITORY'S OBJECT'S*	
 	@Autowired
 	UserRepo u_repo;
 	
