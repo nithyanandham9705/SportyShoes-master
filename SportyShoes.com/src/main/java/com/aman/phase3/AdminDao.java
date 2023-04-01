@@ -11,7 +11,7 @@ public class AdminDao {
 	@Autowired
 	AdminRepo ad_repo;
 	
-	//REGISTREATION-OF-ADMIN
+	//REGISTREATION-OF-ADMI
 	public Admin ad_insert(Admin a)
 	{
 		return ad_repo.save(a);
